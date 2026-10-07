@@ -43,7 +43,7 @@ main {
 /* NTS: may need to adjust the basis */
 .split > * {
   flex-grow: 1;
-  flex-basis: 200px;
+  flex-basis: 300px;
 }
 
 .adaptable-image img {
